@@ -1,0 +1,31 @@
+html{
+    font-size: 10px;
+}
+
+pre{
+    height: 32rem;
+    border: 2px solid black;
+    width: 100vw;
+    border-radius: 5px;
+    background-color: black;
+    color:white;
+    font-size:1.5rem;
+}
+
+
+body{
+    background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+p{
+    font-size:2rem ;
+}
+
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+h3{
+    font-size: 2.5rem;
+}
